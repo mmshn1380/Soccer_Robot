@@ -1,4 +1,4 @@
-# Digital_Control_Lab
+# Soccer Robot
 ***
 The purpose in this project is to design a controller and an algorithm for two soccer robots to play against the same team and prevent scoring and score goals if possible.
 
