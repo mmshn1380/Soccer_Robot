@@ -1,10 +1,5 @@
 # Digital_Control_Lab
 ***
-
-### Masoud Jafari 9823024
-### Mohammadmasih Shalchian 9823051
-
-we program this project together
 The purpose in this project is to design a controller and an algorithm for two soccer robots to play against the same team and prevent scoring and score goals if possible.
 
 ## Astrategy And Algorithm
