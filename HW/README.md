@@ -1,9 +1,6 @@
 # SoccerRobot
 ***
 
-## Masoud Jafari 9823024
-## Mohammadmasih Shalchian 9823051
-
 In this homwork we controll a Robot for play soccer, and we must design the suitable compensator to trcking a certian feature 
 
 ### PID Compensator
